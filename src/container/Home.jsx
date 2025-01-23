@@ -12,7 +12,7 @@ const Home = () => {
   return (
     <div className="flex bg-white flex-col h-full transition-height duration-75 ease-out">
       <div
-        className="pb-2 flex-1 h-screen overflow-y-scroll hide_scrollbar"
+        className="pb-4 flex-1 h-screen overflow-y-scroll hide_scrollbar"
         ref={scrollRef}
       >
         <Routes>

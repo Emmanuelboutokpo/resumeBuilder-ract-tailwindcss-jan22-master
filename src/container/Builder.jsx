@@ -7,7 +7,7 @@ import Templates from "../components/Templates";
 const Builder = () => {
   return (
     <div className="px-2 md:px-5 ">
-      <div className="bg-gray-50">
+      <div className="bg-gray-100">
         <Navbar />
       </div>
 
